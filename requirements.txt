@@ -78,7 +78,7 @@ pathlib-mate==0.0.15
 patsy==0.5.1
 peewee==3.8.2
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==6.2.0
 plotly==4.1.0
 plotly-geo==1.0.0
 pluggy==0.8.1
